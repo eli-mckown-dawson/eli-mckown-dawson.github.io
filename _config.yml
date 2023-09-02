@@ -39,9 +39,9 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: eli-mckown-dawson
   twitter: emckowndawson
-  linkedin: emckowndawson
+  linkedin: "https://www.linkedin.com/in/eli-mckown-dawson/"
   ORCID: 0000-0003-4209-6963
-  google-scholar: "https://scholar.google.com/citations?user=-stdPpQAAAAJ&hl=en"
+  google-scholar: "Eli McKown-Dawson"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
