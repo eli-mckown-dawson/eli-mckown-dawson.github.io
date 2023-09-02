@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 <div class="img">
-  <img width="350" style = "margin: 0;" src="./img/Headshot (Eli Mckown-Dawson).jpg" id = "profile">
+  <img width="350" style = "margin: 0;" src="./img/Headshot.jpg" id = "profile">
 </div>
 
 Welcome! I'm an undergraduate student at Florida State University studying political science and statistics. 
