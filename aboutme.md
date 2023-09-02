@@ -5,6 +5,8 @@ published: true
 use-site-title: true
 ---
 
+![test](./img/Headshot.jpg)
+
 <div class="img">
   <img width="350" style = "margin: 0;" src="./img/Headshot.jpg" id = "profile">
 </div>
