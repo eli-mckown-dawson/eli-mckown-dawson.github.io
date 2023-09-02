@@ -36,7 +36,7 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "emckowndawson@fsu.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+ # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: eli-mckown-dawson
   twitter: emckowndawson
   linkedin: "https://www.linkedin.com/in/eli-mckown-dawson"
@@ -54,13 +54,13 @@ rss-description: Eli McKown-Dawson's personal website.
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://eli-mckown-dawson.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -83,7 +83,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "eli mckown-dawson,eli mckown,eli dawson,eli, mckown-dawson, public opinion, poll, elections, voting, political behavior, survey methodology, social statistics"
 
 ######################################
 # --- Colours / background image --- #
