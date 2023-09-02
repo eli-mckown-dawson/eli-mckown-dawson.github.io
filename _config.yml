@@ -20,27 +20,12 @@ author: Eli McKown-Dawson
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
-################
-# --- Logo --- #
-################
-
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
-
-# If you want to have an image logo in the top-left corner instead of having the title of the website,
-# then specify the following parameter
-#title-img: /path/to/image
-
+  About: "aboutme"
+  CV:
+  Research:
+   - Academic Work:
+   - Public Opinion Polling: 
+  Contact Me:
 
 #####################################
 # --- Footer social media links --- #
@@ -50,38 +35,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "emckowndawson@fsu.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
+  github: eli-mckown-dawson
+  twitter: emckowndawson
+  linkedin: emckowndawson
+  ORCID: 0000-0003-4209-6963
+  google-scholar: "https://scholar.google.com/citations?user=-stdPpQAAAAJ&hl=en"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Eli McKown-Dawson's personal website.
 
 ###########################
 # --- General options --- #
