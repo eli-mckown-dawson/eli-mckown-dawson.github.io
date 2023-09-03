@@ -5,13 +5,9 @@ published: true
 use-site-title: true
 ---
 
-![test](./img/Headshot.jpg)
-
-<img src="/img/Headshot.jpg" alt="drawing" width="200"/>
-
-
-
-<img src="https://github.com/eli-mckown-dawson/eli-mckown-dawson.github.io/blob/a1acd6528abe70319b41868ce35d1a81561e5b17/img/Headshot.jpg" width="200" />
+<p align="center">
+<img src="/img/Headshot.jpg" alt="headshot" width="350"/>
+</p>
 
 Welcome! I'm an undergraduate student at Florida State University studying political science and statistics. 
 
