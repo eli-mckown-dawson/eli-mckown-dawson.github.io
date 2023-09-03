@@ -10,6 +10,9 @@ use-site-title: true
 <img src="/img/Headshot.jpg" alt="drawing" width="200"/>
 
 
+
+<img src="https://github.com/eli-mckown-dawson/eli-mckown-dawson.github.io/blob/a1acd6528abe70319b41868ce35d1a81561e5b17/img/Headshot.jpg" width="200" />
+
 Welcome! I'm an undergraduate student at Florida State University studying political science and statistics. 
 
 My research focuses on public opinion, survey methodology, and voting behavior, and has appeared in the [Election Law Journal](https://www.liebertpub.com/doi/abs/10.1089/elj.2022.0064) and the [MIT Election Lab Blog](https://electionlab.mit.edu/author/678). I'm also a contributor at [YouGov](https://today.yougov.com/people/eli.mckown-dawson), where I design public opinion polls and write articles on American politics and survey methods. 
