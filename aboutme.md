@@ -7,9 +7,7 @@ use-site-title: true
 
 ![test](./img/Headshot.jpg)
 
-<div class="img">
-  <img width="350" style = "margin: 0;" src="./img/Headshot.jpg" id = "profile">
-</div>
+<img src="./img/Headshot.jpg" alt="drawing" width="200"/>
 
 Welcome! I'm an undergraduate student at Florida State University studying political science and statistics. 
 
