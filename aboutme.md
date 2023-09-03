@@ -7,7 +7,8 @@ use-site-title: true
 
 ![test](./img/Headshot.jpg)
 
-<img src="./img/Headshot.jpg" alt="drawing" width="200"/>
+<img src="/img/Headshot.jpg" alt="drawing" width="200"/>
+
 
 Welcome! I'm an undergraduate student at Florida State University studying political science and statistics. 
 
