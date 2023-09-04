@@ -25,7 +25,7 @@ navbar-links:
   Research:
    - Academic Work: "academic"
    - Public Opinion Polling: "polling"
-  Contact Me:
+  Contact Me: "contact"
 
 
 ################
