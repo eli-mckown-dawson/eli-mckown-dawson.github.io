@@ -21,10 +21,10 @@ author: Eli McKown-Dawson
 
 navbar-links:
   About: "aboutme"
-  CV:
+  CV: "cv"
   Research:
-   - Academic Work:
-   - Public Opinion Polling: 
+   - Academic Work: "academic"
+   - Public Opinion Polling: "polling"
   Contact Me:
 
 
