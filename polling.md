@@ -4,7 +4,7 @@ title: Public Opinion Polling
 published: true
 ---
 
-I am a contributor at YouGov, where I write articles on American public opinon, design surveys, and create online survey methodology resources. You can find my page on YouGov's website [here.]([https://electionlab.mit.edu/articles/100-independent-retabulation-election-audit-leon-county-florida](https://today.yougov.com/people/eli.mckown-dawson) Below are excerpts from some of my most recent articles. 
+I am a contributor at YouGov, where I write articles on American public opinon, design surveys, and create online survey methodology resources. You can find my page on YouGov's website [here.](https://today.yougov.com/people/eli.mckown-dawson) Below are excerpts from some of my most recent articles. 
 
 #### [How question style can influence survey responses: the effect of multiple-select](https://today.yougov.com/politics/articles/46070-poll-methodology-question-affect-survey-response)
 
