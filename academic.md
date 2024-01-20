@@ -7,7 +7,7 @@ published: true
 #### Peer Reviewed Journal Articles
 
 - Atkeson, Lonna Rae, **Eli McKown-Dawson**, M.V. Hood III, and Robert Stein. 2023. ["Voter Perceptions of Secrecy in the 2020 Election."](https://doi.org/10.1089/elj.2022.0064) *Election Law Journal: Rules, Politics, and Policy*.
-- Atkeson, Lonna Rae, **Eli McKown-Dawson**, Kyle Saunders, and Jack Santucci. (2023) "The Impact of Voter Confusion in Ranked Choice Voting." *Social Science Quarterly*. (Under Review).
+- Atkeson, Lonna Rae, **Eli McKown-Dawson**, Kyle Saunders, and Jack Santucci. (2023) "The Impact of Voter Confusion in Ranked Choice Voting." *Social Science Quarterly*. (Accepted).
 
 --------------------------------------
 
