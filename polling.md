@@ -26,6 +26,16 @@ I am a contributor at YouGov, where I write articles on American public opinon, 
 
 #### Non-Peer-Reviewed Articles
 
+- **McKown-Dawson, Eli**. (2024). ["How Americans feel about Trump’s proposed policies and the Republican primary candidates"](https://today.yougov.com/politics/articles/48354-how-americans-feel-about-trumps-proposed-policies) YouGov.
+  
+- **McKown-Dawson, Eli**. (2023). ["How opinions have changed on what presidential behavior Americans find objectionable"](https://today.yougov.com/politics/articles/48196-opinions-changed-presidential-behavior-polls-from-past) YouGov.
+
+- **McKown-Dawson, Eli**. (2023). ["Where do Americans think Biden and Trump stand on the issues?"](https://today.yougov.com/politics/articles/47910-where-biden-and-trump-stand-on-the-issues) YouGov.
+  
+- **McKown-Dawson, Eli**. (2023). ["Which government agencies do Americans think should get more or less funding?"](https://today.yougov.com/politics/articles/47874-which-government-agencies-should-get-more-funding-poll) YouGov.
+  
+- **McKown-Dawson, Eli**. (2023). ["How do Americans feel about ticket-price transparency for airline flights?"](https://today.yougov.com/consumer/articles/47641-how-americans-feel-ticket-prices-transparency-airline-flights-poll) YouGov.
+
 - **McKown-Dawson, Eli**. (2023). ["How question style can influence survey responses: the effect of multiple-select"](https://today.yougov.com/politics/articles/46070-poll-methodology-question-affect-survey-response). *YouGov*.
 
 - **McKown-Dawson, Eli**. (2023). ["Americans’ opinions of six presidents: JFK, FDR, Teddy Roosevelt, Washington, Jefferson, and Lincoln"](https://today.yougov.com/politics/articles/45989-presidents-6-jfk-fdr-washington-jefferson-lincoln). *YouGov*.
