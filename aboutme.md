@@ -9,9 +9,9 @@ use-site-title: true
 <img src="/img/Headshot.jpg" alt="headshot" width="350"/>
 </p>
 
-Welcome! I'm an undergraduate student at **Florida State University** studying political science and statistics. 
+Welcome! I'm an undergraduate student at **Florida State University** studying political science and statistics. In the fall, I will begin an MSc Statistics (Social Statistics) (Research) at the **London School of Economics and Political Science**. 
 
-I primarily research **public opinion**, **survey methodology**, and **voting behavior**. My recent work focuses on how election laws (such as voter identification requirements) affect voter confidence, and how data from voter registration files can be used for survey sampling and weighting. 
+I primarily research **survey methodology**, **public opinion**, and **voting behavior**. My recent work focuses on how mobile device use impacts response quality to online surveys, how data from voter registration files can be used for survey sampling and weighting, and how election laws (such as voter identification requirements) relate to voter confidence.
 
 My research has appeared in the [Election Law Journal](https://www.liebertpub.com/doi/abs/10.1089/elj.2022.0064) and the [MIT Election Lab Blog](https://electionlab.mit.edu/author/678). I'm also a contributor at [YouGov](https://today.yougov.com/people/eli.mckown-dawson), where I design public opinion polls and write articles on American politics and survey methods. 
 
