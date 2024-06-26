@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Public Opinion Polling
+title: Polling and Forecasting
 published: true
 ---
 
-I am a contributor at YouGov, where I write articles on American public opinon, design surveys, and create online survey methodology resources. You can find my page on YouGov's website [here.](https://today.yougov.com/people/eli.mckown-dawson) Below are excerpts from some of my most recent articles. 
+I am currently the Assistant Elections Analyst at [Silver Bulletin](https://www.natesilver.net/) where I work on the 2024 presidential election forecast. Check out our updaing forecast landing page here and check back soon for some examples of my work below. 
+
+I'm also a contributor at YouGov, where I write articles on American public opinon, design surveys, and create online survey methodology resources. You can find my page on YouGov's website [here.](https://today.yougov.com/people/eli.mckown-dawson) Below are excerpts from some of my most recent articles. 
 
 #### [How question style can influence survey responses: the effect of multiple-select](https://today.yougov.com/politics/articles/46070-poll-methodology-question-affect-survey-response)
 
@@ -21,51 +23,5 @@ I am a contributor at YouGov, where I write articles on American public opinon, 
 <p align="center">
 <img src="/img/preempt.png" alt="figure" width="700"/>
 </p>
-
---------------------------------------
-
-#### Non-Peer-Reviewed Articles
-
-- **McKown-Dawson, Eli**. (2024). ["How Americans feel about Trump’s proposed policies and the Republican primary candidates"](https://today.yougov.com/politics/articles/48354-how-americans-feel-about-trumps-proposed-policies) YouGov.
-  
-- **McKown-Dawson, Eli**. (2023). ["How opinions have changed on what presidential behavior Americans find objectionable"](https://today.yougov.com/politics/articles/48196-opinions-changed-presidential-behavior-polls-from-past) YouGov.
-
-- **McKown-Dawson, Eli**. (2023). ["Where do Americans think Biden and Trump stand on the issues?"](https://today.yougov.com/politics/articles/47910-where-biden-and-trump-stand-on-the-issues) YouGov.
-  
-- **McKown-Dawson, Eli**. (2023). ["Which government agencies do Americans think should get more or less funding?"](https://today.yougov.com/politics/articles/47874-which-government-agencies-should-get-more-funding-poll) YouGov.
-  
-- **McKown-Dawson, Eli**. (2023). ["How do Americans feel about ticket-price transparency for airline flights?"](https://today.yougov.com/consumer/articles/47641-how-americans-feel-ticket-prices-transparency-airline-flights-poll) YouGov.
-
-- **McKown-Dawson, Eli**. (2023). ["How question style can influence survey responses: the effect of multiple-select"](https://today.yougov.com/politics/articles/46070-poll-methodology-question-affect-survey-response). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2023). ["Americans’ opinions of six presidents: JFK, FDR, Teddy Roosevelt, Washington, Jefferson, and Lincoln"](https://today.yougov.com/politics/articles/45989-presidents-6-jfk-fdr-washington-jefferson-lincoln). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2023). ["Americans’ rankings of 30 occupations"](https://today.yougov.com/economy/articles/45927-americans-rank-30-occupations-pay-happiness-impact). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2023). ["Pets and morality: How attached are Americans to their pets?"](https://today.yougov.com/society/articles/45895-pets-morality-americans-attached-dogs-cats-poll) *YouGov*.
-
-- **McKown-Dawson, Eli**. (2023). ["Americans’ opinions on state preemption of local laws are driven by partisanship"](https://today.yougov.com/politics/articles/45802-federal-state-local-laws-preemption-poll-partisan). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2023). ["Two-thirds of Americans think the country is more divided than usual"](https://today.yougov.com/politics/articles/45648-americans-think-country-more-divided-united-poll). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2023). ["How do Americans feel about regulation of public universities?"](https://today.yougov.com/politics/articles/45414-how-americans-feel-regulation-public-universities). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2023). ["Voters’ confidence in vote counting — before and after the 2022 congressional election"](https://today.yougov.com/politics/articles/44936-voters-confidence-vote-counting-2022-election). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2022). ["How YouGov identifies people as Democrats and Republicans"](How question style can influence survey responses: the effect of multiple-select). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2022). ["Americans’ views on vote-counting deadlines and paper ballots"](https://today.yougov.com/politics/articles/44630-americans-vote-counting-deadline-paper-ballot-poll). *YouGov*.
-
-- Orth, Taylor, Carl Bialik, and **Eli McKown-Dawson**. (2022). ["100 policies supported by majorities of Democrats and Republicans"](https://today.yougov.com/politics/articles/44463-policies-supported-by-democrats-and-republicans). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2022). ["How Americans cast their votes in the 2022 election"](https://today.yougov.com/politics/articles/44440-how-americans-cast-their-votes-2022-election). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2022). ["How Americans feel about voting fraud and election policy"](How question style can influence survey responses: the effect of multiple-select). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2022). ["How Americans’ personal relationships affect their voting behavior](How question style can influence survey responses: the effect of multiple-select"). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2022). ["Assessing Americans’ attitudes about poll workers prior to the 2022 election"](How question style can influence survey responses: the effect of multiple-select). *YouGov*.
-
-- **McKown-Dawson, Eli**. (2022). ["How Does Political Ideology Affect Self-Expression on College Campuses?"](https://devoelmoorecenter.com/2022/11/16/how-does-political-ideology-affect-self-expression-on-college-campuses/) *DeVoe L. Moore Center*.
 
 --------------------------------------
