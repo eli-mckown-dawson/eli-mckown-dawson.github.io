@@ -4,7 +4,7 @@ title: Polling & Forecasting
 published: true
 ---
 
-I am currently the Assistant Elections Analyst at [Silver Bulletin](https://www.natesilver.net/) where I work on the 2024 presidential election forecast. Check out our updaing forecast landing page here and check back soon for some examples of my work below. 
+I am currently the Assistant Elections Analyst at [Silver Bulletin](https://www.natesilver.net/) where I work on the 2024 presidential election forecast. Check out our updaing forecast landing page [here](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) and check back soon for some examples of my work below. 
 
 I'm also a contributor at YouGov, where I write articles on American public opinon, design surveys, and create online survey methodology resources. You can find my page on YouGov's website [here.](https://today.yougov.com/people/eli.mckown-dawson) Below are excerpts from some of my most recent articles. 
 
