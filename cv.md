@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
+title: Resume/CV
 published: true
 ---
 
-You can find a copy of my CV [here](https://www.dropbox.com/scl/fi/q6mng1e1op5tcwgao9vmk/Eli-cv.pdf?rlkey=kzf3p73fpb0qadrby8iqmyvpg&dl=0). 
+You can find a copy of my resume [here](https://www.dropbox.com/scl/fi/a4a5q4z7l008z6t45kajl/mckown-dawson_resume.pdf?rlkey=yosgnhjjsi24akep0usjgn4lt&st=c16ilhnx&dl=0). 
