@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eli McKown-Dawson
+title: About me
 published: true
 use-site-title: true
 ---
