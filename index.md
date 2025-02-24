@@ -5,9 +5,11 @@ published: true
 use-site-title: true
 ---
 
-<p align="center">
-<img src="/img/Headshot.jpg" alt="headshot" width="350"/>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="/img/map.png" alt="Image 1" style="width: 32%; margin-right: 5px;">
+  <img src="/img/forecast.png" alt="Image 2" style="width: 32%; margin: 0 5px;">
+  <img src="/img/error.png" alt="Image 3" style="width: 32%; margin-left: 5px;">
+</div>
 
 Welcome! I'm the Elections Analyst at [Silver Bulletin](https://www.natesilver.net/), where I apply statistics to analyze political data, create polling averages and election forecasts, and write about politics, data, and public opinion. I worked extensively on the [2024 Silver Bulletin election forecast](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) and the pubication's coverage of the 2024 U.S. election. And more recently on our pollster ratings and presidential approval polling averages.
 
