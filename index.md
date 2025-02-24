@@ -6,8 +6,8 @@ use-site-title: true
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/img/bTyha-who-is-favored-to-win-each-state-.png" alt="Map" style="width: 50%">
-  <img src="/img/MPpof-how-each-candidate-s-chance-of-winning-has-changed.png" alt="Win probabilities" style="width: 50%">
+  <img src="/img/bTyha-who-is-favored-to-win-each-state-.png" alt="Map" style="width: 50% margin-right: 5px;">
+  <img src="/img/MPpof-how-each-candidate-s-chance-of-winning-has-changed.png" alt="Win probabilities" style="width: 50% margin-left: 5px;">
 </div>
 
 Welcome! I'm the Elections Analyst at [Silver Bulletin](https://www.natesilver.net/), where I apply statistics to analyze political data, create polling averages and election forecasts, and write about politics, data, and public opinion. I worked extensively on the [2024 Silver Bulletin election forecast](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) and the pubication's coverage of the 2024 U.S. election. And more recently on our pollster ratings and presidential approval polling averages.
