@@ -22,7 +22,8 @@ author: Eli McKown-Dawson
 navbar-links:
   About: "index"
   Data journalism: "polling"
-  Bylines, quoted in, and speaking: "aboutme"
+  Bylines: "bylines"
+  Quoted in and speaking: "aboutme"
   Academic publicatiobs: "academic"
   Resume/CV: "cv"
   Contact: "contact"
