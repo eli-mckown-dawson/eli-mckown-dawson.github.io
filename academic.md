@@ -14,7 +14,7 @@ published: true
 
 [Device Effects in Online Public Opinion Surveys](https://www.dropbox.com/scl/fi/0yuacvlc9lhitog7ib7ey/Thesis-20.pdf?rlkey=fx52mqhhdcp4cak7tnxqkad2d&e=1&st=k8x503xh&dl=0) – May 2024
 - My senior thesis at Florida State University. 
-- Testing whether taking online public opinion surveys on a mobile device reduces response quality compared to surveys completed on a laptop or desktop computer.
+- Tested whether taking online public opinion surveys on a mobile device reduces response quality compared to surveys completed on a laptop or desktop computer.
 
 [Voter Perceptions of Secrecy in the 2020 Election](https://doi.org/10.1089/elj.2022.0064) – September 2023
 - Published in *The Election Law Journal: Rules, Politics, and Policy* with Lonna Rae Atkeson, M.V. Hood III, and Robert Stein.
