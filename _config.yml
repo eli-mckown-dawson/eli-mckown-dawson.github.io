@@ -21,10 +21,8 @@ author: Eli McKown-Dawson
 
 navbar-links:
   About: "aboutme"
+  Work samples: "polling"
   Resume/CV: "cv"
-  Polling & Forecasting: "polling"
-  Academic Work: "academic"
-
 
 ################
 # --- Logo --- #
