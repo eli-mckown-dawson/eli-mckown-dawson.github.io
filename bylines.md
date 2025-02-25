@@ -39,6 +39,10 @@ use-site-title: true
 
 ## YouGov
 
+#### [How much do Americans know about the 2024 presidential election?](https://today.yougov.com/politics/articles/49846-how-much-americans-know-about-2024-presidential-election-knowledge-poll) – July 2024
+
+#### [How Americans characterize polls about policy support among two groups and elections](https://today.yougov.com/politics/articles/49449-how-americans-characterize-polls-policy-support-two-groups-elections-poll) – May 2024
+
 ## Other outlets
 
 
