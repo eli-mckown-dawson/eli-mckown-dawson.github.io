@@ -4,12 +4,6 @@ title: About me
 published: true
 use-site-title: true
 ---
----
-layout: page
-title: About me
-published: true
-use-site-title: true
----
 
 <p align="center">
   <img src="/img/Headshot.jpg" alt="Image" style="width:40%;">
