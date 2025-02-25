@@ -40,7 +40,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/img/Headshot.jpg"
+#title-img: "/img/Headshot.jpg"
 
 
 #####################################
@@ -99,7 +99,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "eli mckown-dawson, eli mckown, eli dawson, eli, mckown-dawson, political science, public opinion, poll, elections, voting, political behavior, survey methodology, social statistics, florida state university, yougov"
+keywords: "eli mckown-dawson, eli mckown, eli dawson, eli, mckown-dawson, polling, public opinion, elections, data journalism, data science, forecasting, journalism, voting, political behavior, survey methodology, social statistics"
 
 ######################################
 # --- Colours / background image --- #
