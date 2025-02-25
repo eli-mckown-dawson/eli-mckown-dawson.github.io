@@ -21,10 +21,10 @@ author: Eli McKown-Dawson
 
 navbar-links:
   About: "index"
-  Data journalism: "polling"
+  Data journalism and analysis: "polling"
   Bylines: "bylines"
-  Quoted in and speaking: "aboutme"
   Academic publications: "academic"
+  Quoted in and speaking: "aboutme"
   Resume/CV: "cv"
   Contact: "contact"
 
