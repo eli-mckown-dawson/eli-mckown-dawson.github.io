@@ -15,7 +15,7 @@ use-site-title: true
 
 #### [Silver Bulletin 2024 election night coverage](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) – November 2024
 
-#### [Silver Bulletin 2024 election night coverage](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) – November 2024
+#### [Silver Bulletin 2024 presidential election forecast](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) – November 2024
 
 #### [The polls are close, but that doesn’t mean the results will be](https://www.natesilver.net/p/the-polls-are-close-but-that-doesnt) - November 2024
 
