@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Bylines
 published: true
 use-site-title: true
 ---
