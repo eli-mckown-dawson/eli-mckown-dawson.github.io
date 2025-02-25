@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quoted in and speaking
+title: Media apperiances and quotes
 published: true
 use-site-title: true
 ---
