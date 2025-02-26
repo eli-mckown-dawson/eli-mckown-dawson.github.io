@@ -20,7 +20,6 @@ author: Eli McKown-Dawson
 ###############################################
 
 navbar-links:
-  About: "index"
   Data journalism and polling: "polling"
   Bylines: "bylines"
   Academic publications: "academic"
