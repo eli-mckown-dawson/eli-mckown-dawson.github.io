@@ -97,6 +97,16 @@ use-site-title: true
 
 ## Other outlets
 
+#### [100% Independent Retabulation Election Audit, Leon County, Florida](https://electionlab.mit.edu/articles/100-independent-retabulation-election-audit-leon-county-florida) – *MIT Election Data Science Lab Blog*, March 2023
+
+#### [Vote Choice and Perceptions of Ballot Secrecy in the 2020 Election](https://electionlab.mit.edu/articles/vote-choice-and-perceptions-ballot-secrecy-2020-election) – *MIT Election Data Science Lab Blog*, November 2022
+
+#### [Moderate students are most marginalized in political discussions on campuses](https://eu.tallahassee.com/story/opinion/2022/10/16/moderate-students-most-marginalized-political-discussions-campuses/10490247002/) – *Tallahassee Democrat*, October 2022
+
+#### [When it comes to views of campus climate, political ideology is important](https://eu.tallahassee.com/story/opinion/2021/12/10/when-comes-views-campus-climate-political-ideology-important-opinion/6442458001/) – *Tallahassee Democrat*, December 2021
+
+
+
 
 
 
