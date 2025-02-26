@@ -38,7 +38,15 @@ Nate Silver and I maintain the Silver Bulletin pollster ratings. We compile ever
 
 "Rather than speculating about the motivations of every firm, it’s more useful to ask whether a flooding of the proverbial zone could meaningfully move the polling averages. Yes, in theory it could if two things were true. First, polls from Republican-leaning firms are more favorable to Trump than nonpartisan polls. And second, the polling averages don’t adjust these polls based on pollster quality and house effects, allowing them to push the averages right. So the important question here is: are both of these things actually happening?"
 
-### [How question style can influence survey responses: the effect of multiple-select](https://today.yougov.com/politics/articles/46070-poll-methodology-question-affect-survey-response)
+### [Americans are more likely to accept most protest tactics when the protest is for a cause they like](https://today.yougov.com/politics/articles/46070-poll-methodology-question-affect-survey-response)
+
+<p align="center">
+<img src="/img/protest.png" alt="figure" width="600"/>
+</p>
+
+Americans are more likely to find each of the eight forms of protest acceptable when the protest is advocating for their most supported cause and more likely to find each tactic unacceptable when it is used to advocate for their most opposed cause. The differences are subtle but in a consistent direction. For example, while most Americans find marching for long distances always or usually acceptable, they are twice as likely to find it always or usually unacceptable when the protest is about their most opposed cause (22%) than when it is for their most supported cause (10%). Majorities of Americans also find handing out flyers, boycotting products, and picketing acceptable but are about twice as likely to find each tactic unacceptable when it is used in support of their most opposed cause.
+
+### [How question style can influence survey responses: the effect of multiple-select](https://today.yougov.com/politics/articles/48468-americans-accept-protest-tactics-causes-they-support-poll)
 
 <p align="center">
 <img src="/img/format.png" alt="figure" width="600"/>
