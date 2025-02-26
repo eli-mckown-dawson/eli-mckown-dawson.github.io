@@ -36,6 +36,7 @@ Nate Silver and I maintain the Silver Bulletin pollster ratings. We compile ever
 <img src="/img/RiSnv-does-using-only-high-quality-nonpartisan-polls-change-the-silver-bulletin-forecast-.png" alt="polling error" width="600"/>
 </p>
 
+"Rather than speculating about the motivations of every firm, it’s more useful to ask whether a flooding of the proverbial zone could meaningfully move the polling averages. Yes, in theory it could if two things were true. First, polls from Republican-leaning firms are more favorable to Trump than nonpartisan polls. And second, the polling averages don’t adjust these polls based on pollster quality and house effects, allowing them to push the averages right. So the important question here is: are both of these things actually happening?"
 
 ### [How question style can influence survey responses: the effect of multiple-select](https://today.yougov.com/politics/articles/46070-poll-methodology-question-affect-survey-response)
 
