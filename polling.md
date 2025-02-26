@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Polling & Forecasting
+title: Data Journalism & Polling
 published: true
 ---
 
