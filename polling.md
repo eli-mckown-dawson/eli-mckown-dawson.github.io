@@ -22,26 +22,27 @@ I ran the Silver Bulletin's 2024 forecast for the U.S. presidential election wit
 
 Nate Silver and I maintain the Silver Bulletin pollster ratings. We compile every election poll conducted by U.S. pollsters within three weeks of a presidential primary or general election and use them to grade pollsters based on their historical accuracy and transparency. I collected the data for our post-2024 update to the ratings designed our pollster rating charts. I also wrote the Silver Bulletin's [retrospective piece on how the polls performed in 2024](https://www.natesilver.net/p/so-how-did-the-polls-do-in-2024-its).
 
+### [The polls are close, but that doesn’t mean the results will be](https://www.natesilver.net/p/the-polls-are-close-but-that-doesnt)
 
+<p align="center">
+<img src="/img/qkqMR-what-would-happen-if-past-polling-errors-repeated-themselves-in-2024-.png" alt="polling error" width="600"/>
+</p>
 
+"So what’s the point of our forecast if things are so close that standard behavior from the polls means either candidate could win decisively? Basically to tell you exactly that. Divorced from vibes and bad punditry, the data say the race is a tossup. Either candidate could win and with a normal polling error, either candidate could win by a lot. Our advice is to embrace uncertainty and to not be too surprised if the breakdown of who wins each state doesn’t neatly follow the current polling averages."
 
-
-I'm also a contributor at YouGov, where I write articles on American public opinon, design surveys, and create online survey methodology resources. You can find my page on YouGov's website [here.](https://today.yougov.com/people/eli.mckown-dawson) Below are excerpts from some of my most recent articles. 
 
 #### [How question style can influence survey responses: the effect of multiple-select](https://today.yougov.com/politics/articles/46070-poll-methodology-question-affect-survey-response)
 
-"As with the experience and identity questions, Americans shown each drink in a separate question were more likely to say they had tried them than were Americans who were shown all 12 drinks in the same multiple-select question. For example, Americans in the single-select group (84%) were 10 percentage points more likely than those in the multiple-select group (74%) to say they had ever tried wine. There were similar differences in the estimates of adults who have tried drinks derived from single-select and multiple-select questions for beer (80% vs. 72%), liquor (80% vs. 69%), and champagne (76% vs. 64%)."
-
 <p align="center">
-<img src="/img/format.png" alt="figure" width="700"/>
+<img src="/img/format.png" alt="figure" width="600"/>
 </p>
 
-#### [Americans’ opinions on state preemption of local laws are driven by partisanship](https://today.yougov.com/politics/articles/45802-federal-state-local-laws-preemption-poll-partisan)
+"As with the experience and identity questions, Americans shown each drink in a separate question were more likely to say they had tried them than were Americans who were shown all 12 drinks in the same multiple-select question. For example, Americans in the single-select group (84%) were 10 percentage points more likely than those in the multiple-select group (74%) to say they had ever tried wine. There were similar differences in the estimates of adults who have tried drinks derived from single-select and multiple-select questions for beer (80% vs. 72%), liquor (80% vs. 69%), and champagne (76% vs. 64%)."
 
-"However, both Democrats and Republicans think that the other party preempts local laws more often than they think their own party does. For example, 64% of Democrats believe that Republican state governments preempt Democratic local governments very or somewhat often, while only 32% of Republicans think the same. Similarly, only 37% of Democrats think Democratic state governments often preempt Republican local governments, compared to 67% of Republicans."
+#### [Americans’ opinions on state preemption of local laws are driven by partisanship](https://today.yougov.com/politics/articles/45802-federal-state-local-laws-preemption-poll-partisan)
 
 <p align="center">
 <img src="/img/preempt.png" alt="figure" width="700"/>
 </p>
 
---------------------------------------
+"However, both Democrats and Republicans think that the other party preempts local laws more often than they think their own party does. For example, 64% of Democrats believe that Republican state governments preempt Democratic local governments very or somewhat often, while only 32% of Republicans think the same. Similarly, only 37% of Democrats think Democratic state governments often preempt Republican local governments, compared to 67% of Republicans."
