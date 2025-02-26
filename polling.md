@@ -16,6 +16,13 @@ I ran the Silver Bulletin's 2024 forecast for the U.S. presidential election wit
 
 ### [Silver Bulletin pollster ratings](https://www.natesilver.net/p/pollster-ratings-silver-bulletin)
 
+<p align="center">
+<img src="/img/Ecu23-silver-bulletin-pollster-ratings.png" alt="ratings" width="600"/>
+</p>
+
+
+
+
 
 
 
