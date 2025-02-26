@@ -30,6 +30,12 @@ Nate Silver and I maintain the Silver Bulletin pollster ratings. We compile ever
 
 "So what’s the point of our forecast if things are so close that standard behavior from the polls means either candidate could win decisively? Basically to tell you exactly that. Divorced from vibes and bad punditry, the data say the race is a tossup. Either candidate could win and with a normal polling error, either candidate could win by a lot. Our advice is to embrace uncertainty and to not be too surprised if the breakdown of who wins each state doesn’t neatly follow the current polling averages."
 
+### [Are Republican pollsters “flooding the zone?”](https://www.natesilver.net/p/are-republican-pollsters-flooding)
+
+<p align="center">
+<img src="/img/RiSnv-does-using-only-high-quality-nonpartisan-polls-change-the-silver-bulletin-forecast-.png" alt="polling error" width="600"/>
+</p>
+
 
 ### [How question style can influence survey responses: the effect of multiple-select](https://today.yougov.com/politics/articles/46070-poll-methodology-question-affect-survey-response)
 
