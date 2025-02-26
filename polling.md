@@ -20,7 +20,7 @@ I ran the Silver Bulletin's 2024 forecast for the U.S. presidential election wit
 <img src="/img/Ecu23-silver-bulletin-pollster-ratings.png" alt="ratings" width="600"/>
 </p>
 
-
+Nate Silver and I maintain the Silver Bulletin pollster ratings. We compile every election poll conducted by U.S. pollsters within three weeks of a presidential primary or general election and use them to grade pollsters based on their historical accuracy and transparency. I collected the data for our post-2024 update to the ratings designed our pollster rating charts. I also wrote the Silver Bulletin's [retrospective piece on how the polls performed in 2024](https://www.natesilver.net/p/so-how-did-the-polls-do-in-2024-its).
 
 
 
