@@ -1,8 +1,14 @@
 ---
 layout: page
-title: Data Journalism & Polling
+title: Data journalism & polling
 published: true
 ---
+
+These are some recent examples of my data journalism and polling work. You can find a complete list of my bylines [here](https://eli-mckown-dawson.github.io/bylines/) and a list of my academic publications [here](https://eli-mckown-dawson.github.io/academic/).
+
+### [Silver Bulletin 2024 presidential election forecast](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model)
+
+
 
 I am currently the Assistant Elections Analyst at [Silver Bulletin](https://www.natesilver.net/) where I work on the 2024 presidential election forecast. Check out our updaing forecast landing page [here](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) and check back soon for some examples of my work below. 
 
