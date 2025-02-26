@@ -9,11 +9,11 @@ These are some recent examples of my data journalism and polling work. You can f
 ### [Silver Bulletin 2024 presidential election forecast](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model)
 
 <p align="center">
-<img src="/img/MPpof-how-each-candidate-s-chance-of-winning-has-changed.png" alt="forecast" width="700"/>
+<img src="/img/MPpof-how-each-candidate-s-chance-of-winning-has-changed.png" alt="forecast" width="600"/>
 </p>
 
+I ran the 2024 Silver Bulletin presidential election forecast with Nate Silver. I designed the polling average and forecast charts, maintained our database of polls, and created a fully automated system for updating our charts with new data.
 
-I am currently the Assistant Elections Analyst at [Silver Bulletin](https://www.natesilver.net/) where I work on the 2024 presidential election forecast. Check out our updaing forecast landing page [here](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) and check back soon for some examples of my work below. 
 
 I'm also a contributor at YouGov, where I write articles on American public opinon, design surveys, and create online survey methodology resources. You can find my page on YouGov's website [here.](https://today.yougov.com/people/eli.mckown-dawson) Below are excerpts from some of my most recent articles. 
 
