@@ -8,6 +8,10 @@ These are some recent examples of my data journalism and polling work. You can f
 
 ### [Silver Bulletin 2024 presidential election forecast](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model)
 
+<p align="center">
+  <img src="/img/MPpof-how-each-candidate-s-chance-of-winning-has-changed.png" alt="forecast" style="width:40%;">
+</p>
+
 
 
 I am currently the Assistant Elections Analyst at [Silver Bulletin](https://www.natesilver.net/) where I work on the 2024 presidential election forecast. Check out our updaing forecast landing page [here](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) and check back soon for some examples of my work below. 
