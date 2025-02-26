@@ -14,6 +14,10 @@ These are some recent examples of my data journalism and polling work. You can f
 
 I ran the Silver Bulletin's 2024 forecast for the U.S. presidential election with Nate Silver. [The model](https://fivethirtyeight.com/features/how-fivethirtyeights-2020-presidential-forecast-works-and-whats-different-because-of-covid-19/) combines public opinion polls with demographic and economic data to simulate thousands of potential election outcomes and forecast the winner of the Electoral College. I designed the charts for our polling average and forecast, maintained our database of public opinion polls, and created a fully automated system for updating our charts with new data. Our forecast was one of the most accurate in 2024 and [exactly predicted the most likely election map](https://www.natesilver.net/p/the-model-exactly-predicted-the-most).
 
+### [Silver Bulletin pollster ratings](https://www.natesilver.net/p/pollster-ratings-silver-bulletin)
+
+
+
 
 I'm also a contributor at YouGov, where I write articles on American public opinon, design surveys, and create online survey methodology resources. You can find my page on YouGov's website [here.](https://today.yougov.com/people/eli.mckown-dawson) Below are excerpts from some of my most recent articles. 
 
