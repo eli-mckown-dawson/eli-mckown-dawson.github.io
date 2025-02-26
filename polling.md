@@ -31,7 +31,7 @@ Nate Silver and I maintain the Silver Bulletin pollster ratings. We compile ever
 "So what’s the point of our forecast if things are so close that standard behavior from the polls means either candidate could win decisively? Basically to tell you exactly that. Divorced from vibes and bad punditry, the data say the race is a tossup. Either candidate could win and with a normal polling error, either candidate could win by a lot. Our advice is to embrace uncertainty and to not be too surprised if the breakdown of who wins each state doesn’t neatly follow the current polling averages."
 
 
-#### [How question style can influence survey responses: the effect of multiple-select](https://today.yougov.com/politics/articles/46070-poll-methodology-question-affect-survey-response)
+### [How question style can influence survey responses: the effect of multiple-select](https://today.yougov.com/politics/articles/46070-poll-methodology-question-affect-survey-response)
 
 <p align="center">
 <img src="/img/format.png" alt="figure" width="600"/>
@@ -39,7 +39,7 @@ Nate Silver and I maintain the Silver Bulletin pollster ratings. We compile ever
 
 "As with the experience and identity questions, Americans shown each drink in a separate question were more likely to say they had tried them than were Americans who were shown all 12 drinks in the same multiple-select question. For example, Americans in the single-select group (84%) were 10 percentage points more likely than those in the multiple-select group (74%) to say they had ever tried wine. There were similar differences in the estimates of adults who have tried drinks derived from single-select and multiple-select questions for beer (80% vs. 72%), liquor (80% vs. 69%), and champagne (76% vs. 64%)."
 
-#### [Americans’ opinions on state preemption of local laws are driven by partisanship](https://today.yougov.com/politics/articles/45802-federal-state-local-laws-preemption-poll-partisan)
+### [Americans’ opinions on state preemption of local laws are driven by partisanship](https://today.yougov.com/politics/articles/45802-federal-state-local-laws-preemption-poll-partisan)
 
 <p align="center">
 <img src="/img/preempt.png" alt="figure" width="700"/>
