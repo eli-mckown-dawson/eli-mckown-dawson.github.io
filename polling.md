@@ -6,13 +6,21 @@ published: true
 
 These are some recent examples of my data journalism and polling work. You can find a complete list of my bylines [here](https://eli-mckown-dawson.github.io/bylines/) and a list of my academic publications [here](https://eli-mckown-dawson.github.io/academic/).
 
+### [Silver Bulletin presidential approval average](https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin)
+
+<p align="center">
+<img src="/img/kSCt4-do-americans-b-style-color-16877a-approve-b-or-b-style-color-d95f02-disapprove-b-of-donald-trump-(2).png" alt="forecast" width="600"/>
+</p>
+
+I run the Silver Bulletin's presidential approval aveage with Nate Silver. [The average](https://fivethirtyeight.com/features/how-were-tracking-donald-trumps-approval-ratings/) uses data from all publicly available public opinion polls to estimate Donald Trump's approval rating. I designed and maintain our database of public opinon polls, created the charts for our dashboard, and am responsible for updating the average multiple times per-day. I also track data on Trump's approval on various issues like immigration and the economy, and run a polling averages that [seperates our strong and weak approval](https://www.natesilver.net/p/were-tracking-more-data-on-trumps).
+
 ### [Silver Bulletin 2024 presidential election forecast](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model)
 
 <p align="center">
 <img src="/img/MPpof-how-each-candidate-s-chance-of-winning-has-changed.png" alt="forecast" width="600"/>
 </p>
 
-I ran the Silver Bulletin's 2024 forecast for the U.S. presidential election with Nate Silver. [The model](https://fivethirtyeight.com/features/how-fivethirtyeights-2020-presidential-forecast-works-and-whats-different-because-of-covid-19/) combines public opinion polls with demographic and economic data to simulate thousands of potential election outcomes and forecast the winner of the Electoral College. I designed the charts for our polling average and forecast, maintained our database of public opinion polls, and created a fully automated system for updating our charts with new data. Our forecast was one of the most accurate in 2024 and [exactly predicted the most likely election map](https://www.natesilver.net/p/the-model-exactly-predicted-the-most).
+I also ran the Silver Bulletin's 2024 forecast for the U.S. presidential election with Nate Silver. [The model](https://fivethirtyeight.com/features/how-fivethirtyeights-2020-presidential-forecast-works-and-whats-different-because-of-covid-19/) combines public opinion polls with demographic and economic data to simulate thousands of potential election outcomes and forecast the winner of the Electoral College. I designed the charts for our polling average and forecast, maintained our database of public opinion polls, and created a fully automated system for updating our charts with new data. Our forecast was one of the most accurate in 2024 and [exactly predicted the most likely election map](https://www.natesilver.net/p/the-model-exactly-predicted-the-most).
 
 ### [Silver Bulletin pollster ratings](https://www.natesilver.net/p/pollster-ratings-silver-bulletin)
 
