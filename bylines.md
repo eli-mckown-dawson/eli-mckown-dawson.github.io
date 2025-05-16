@@ -7,6 +7,16 @@ use-site-title: true
 
 ## Silver Bulletin
 
+#### [We're tracking more data on Trump's popularity](https://www.natesilver.net/p/were-tracking-more-data-on-trumps) – May 2025
+
+#### [Canada thinks we're a bunch of hosers, eh?](https://www.natesilver.net/p/canada-thinks-were-a-bunch-of-hosers) – April 2025
+
+#### [How popular is Elon Musk?](https://www.natesilver.net/p/elon-musk-polls-popularity-nate-silver-bulletin) – April 2025
+
+#### [Republicans are acting like there’s a Blue Wave coming](https://www.natesilver.net/p/republicans-are-acting-like-theres) – March 2025
+
+#### [How popular is Donald Trump?](https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin) – April 2025
+
 #### [So, how did the polls do in 2024? It’s complicated](https://www.natesilver.net/p/so-how-did-the-polls-do-in-2024-its) – February 2025
 
 #### [Silver Bulletin pollster ratings, 2025 update](https://www.natesilver.net/p/pollster-ratings-silver-bulletin) – February 2025
