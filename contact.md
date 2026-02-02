@@ -4,6 +4,6 @@ title: Contact Information
 published: true
 ---
 
-**Email Address:** emckowndawson@gmail.com
+**Email Address:** <eli.inquiries68@gmail.com>
 
 **X/Twitter:** @emckowndawson
