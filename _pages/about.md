@@ -6,13 +6,13 @@ subtitle: Senior Elections Analyst · Silver Bulletin · Polling, Forecasting & 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # Add your headshot as assets/img/prof_pic.jpg
   image_circular: false
   more_info: >
     <p>eli.inquiries68@gmail.com</p>
     <p>@emckowndawson</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
