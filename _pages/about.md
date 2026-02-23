@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Elections Analyst · Silver Bulletin · Polling, Forecasting & Political Data
+subtitle: Silver Bulletin Senior Elections Analyst
 
 profile:
   align: right
-  image: # Add your headshot as assets/img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>eli.inquiries68@gmail.com</p>
