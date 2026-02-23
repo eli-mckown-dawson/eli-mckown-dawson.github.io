@@ -6,7 +6,8 @@
       "WebFetch(domain:github.com)",
       "Bash(git --version:*)",
       "WebFetch(domain:api.github.com)",
-      "WebFetch(domain:raw.githubusercontent.com)"
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:emckowndawson.com)"
     ]
   }
 }
