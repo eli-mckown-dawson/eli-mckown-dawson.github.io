@@ -22,11 +22,11 @@ latest_posts:
   enabled: false
 ---
 
-[Bio paragraph 1 - who you are and what you do at Silver Bulletin]
+I'm a data journalist, statistician, and elections analyst based in Washington, DC. I currently write about elections and public opinion for [Silver Bulletin](https://www.natesilver.net/), one of the top 15 US politics newsletters on Substack. I also work on Silver Bulletin's election forecasts and polling averages.
 
-[Bio paragraph 2 - your background and expertise]
+Previously, I was a contributor at [YouGov](https://today.yougov.com/people/eli-mckown-dawson) and a research fellow at the [LeRoy Collins Institute](https://lci.fsu.edu/). I hold an MSc in Statistics from the London School of Economics and a BS in Political Science from Florida State University.
 
-[Bio paragraph 3 - education and previous roles]
+You can see my most recent work [here](https://substack.com/@emckowndawson).
 
 ---
 
