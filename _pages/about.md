@@ -30,7 +30,7 @@ You can see my most recent work [here](https://substack.com/@emckowndawson).
 
 ---
 
-## Available for speaking, media, and consulting
+## Speaking, media, and consulting
 
 I'm available for speaking engagements and media appearances — including TV, radio, podcasts, and interviews — on elections, polling, and American politics. I also consult on polling methodology, survey design, and statistical analysis.
 

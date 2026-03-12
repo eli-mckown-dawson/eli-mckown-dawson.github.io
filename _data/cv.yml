@@ -1,10 +1,9 @@
 cv:
   name: Eli McKown-Dawson
-  label: Senior Elections Analyst
   email: eli.inquiries68@gmail.com
   location: ""
   image: ""
-  summary: "[Add your professional summary here]"
+  summary: "Data journalist, statistician, and elections analyst with experience in election forecasting, polling averages, and public opinion research."
 
   social_networks:
     - network: X
@@ -16,24 +15,38 @@ cv:
 
   sections:
     Education:
-      - institution: "[University Name]"
-        location: ""
-        area: "[Field of Study]"
-        studyType: "[Degree]"
-        start_date: ""
-        end_date: ""
+      - institution: The London School of Economics
+        studyType: "MSc, Statistics (Social Statistics) (Research)"
+        start_date: "2024-09"
+        end_date: "2025-08"
+
+      - institution: Florida State University
+        studyType: "BS, Political Science"
+        start_date: "2020-08"
+        end_date: "2024-05"
 
     Experience:
       - company: Silver Bulletin
         position: Senior Elections Analyst
-        location: ""
-        start_date: ""
+        start_date: "2025-09"
         end_date: ""
-        summary: "[Add description]"
 
-      - company: "[Previous Employer]"
-        position: "[Position]"
-        location: ""
-        start_date: ""
-        end_date: ""
-        summary: "[Add description]"
+      - company: Silver Bulletin
+        position: Elections Analyst
+        start_date: "2024-06"
+        end_date: "2025-08"
+
+      - company: YouGov
+        position: "Contributor – Data Journalism & Survey Methodology"
+        start_date: "2023-01"
+        end_date: "2024-05"
+
+      - company: YouGov
+        position: Survey Data Journalist (Intern)
+        start_date: "2022-09"
+        end_date: "2023-12"
+
+      - company: The LeRoy Collins Institute
+        position: "Research Fellow – Elections & Survey Methodology"
+        start_date: "2022-01"
+        end_date: "2024-05"
