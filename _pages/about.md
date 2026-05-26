@@ -32,6 +32,6 @@ You can see my most recent work [here](https://substack.com/@emckowndawson).
 
 ## Speaking, media, and consulting
 
-I'm available for speaking engagements and media appearances — including TV, radio, podcasts, and interviews — on elections, polling, and American politics. I also consult on polling methodology, survey design, and statistical analysis.
+I'm available for speaking engagements and media appearances — including TV, radio, podcasts, and interviews — on elections, polling, and American politics. I also consult on polling methodology, survey design, and statistical analysis. You can [book a speaking engagement here](https://speakerhub.com/speaker/eli-mckown-dawson).
 
 For inquiries: **eli.inquiries68@gmail.com**
