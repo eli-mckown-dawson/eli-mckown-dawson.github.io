@@ -1,0 +1,12 @@
+---
+layout: page
+title: Research
+permalink: /research/
+lede: Peer-reviewed papers and student research on voting, election administration and survey methodology.
+---
+<ul class="papers">
+  {%- for p in site.data.papers %}
+  {% include paper.html p=p summary=true %}
+  {%- endfor %}
+</ul>
+<p class="links" style="margin-top:1.5rem"><a href="https://scholar.google.com/citations?user={{ site.author.scholar }}">Google Scholar</a><a href="https://orcid.org/{{ site.author.orcid }}">ORCID</a></p>

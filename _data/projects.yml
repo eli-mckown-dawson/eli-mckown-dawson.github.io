@@ -1,0 +1,77 @@
+# Data, models and charts. The first entry is the large feature on the home page;
+# the next three appear as cards below it. All of them are listed on /data/.
+# image paths are relative to assets/img/charts/.
+
+- title: Presidential approval average
+  url: https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin
+  kind: Silver Bulletin
+  when: Updated several times a day
+  image: approval-average.webp
+  width: 1000
+  height: 897
+  alt: "Silver Bulletin chart of Trump's approval (45.0%) and disapproval (51.2%) as of May 15, 2025, with shaded uncertainty bands since January."
+  summary: >-
+    An average of every public poll of Trump's approval, weighted for each
+    poll's quality, recency, sample size and partisan lean. It also tracks
+    approval on issues like immigration and the economy, and splits strong
+    from weak approval.
+  role:
+    - Designed and maintain the polling database
+    - Built the dashboard charts
+    - Update the average several times a day
+  links:
+    - label: See the tracker
+      url: https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin
+    - label: Strong vs. weak approval
+      url: https://www.natesilver.net/p/were-tracking-more-data-on-trumps
+
+- title: 2024 presidential election forecast
+  url: https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model
+  kind: Forecast
+  when: "2024"
+  image: 2024-forecast.webp
+  width: 1000
+  height: 1134
+  alt: "Chart of Harris and Trump win probabilities from August to November 2024, ending at 50.0% and 49.6%."
+  summary: >-
+    Ran the Silver Bulletin's 2024 presidential forecast with Nate Silver.
+    Designed the charts and built a fully automated system to update them.
+    The model's most likely map matched the result exactly.
+  links:
+    - label: Read the forecast
+      url: https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model
+    - label: How the map came out
+      url: https://www.natesilver.net/p/the-model-exactly-predicted-the-most
+
+- title: Silver Bulletin pollster ratings
+  url: https://www.natesilver.net/p/pollster-ratings-silver-bulletin
+  kind: Ratings
+  when: 2025 update
+  image: pollster-ratings.webp
+  width: 1000
+  height: 1445
+  alt: "Table of Silver Bulletin pollster ratings showing letter grades, Predictive Plus-Minus and mean-reverted bias for each pollster."
+  summary: >-
+    Grades U.S. pollsters on historical accuracy and transparency, using every
+    election poll conducted within three weeks of a primary or general
+    election. Collected the data for the post-2024 update and designed the charts.
+  links:
+    - label: See the ratings
+      url: https://www.natesilver.net/p/pollster-ratings-silver-bulletin
+    - label: How the polls did in 2024
+      url: https://www.natesilver.net/p/so-how-did-the-polls-do-in-2024-its
+
+- title: What if past polling errors repeated?
+  url: https://www.natesilver.net/p/the-polls-are-close-but-that-doesnt
+  kind: Analysis
+  when: Nov 2024
+  image: polling-errors.webp
+  width: 1000
+  height: 1308
+  alt: "Chart showing how the 2024 battleground polling averages would shift if the polling errors of 2012, 2016 and 2020 repeated."
+  summary: >-
+    Replayed historical polling misses on the 2024 averages to show how a
+    close race could still end in a lopsided map.
+  links:
+    - label: Read the piece
+      url: https://www.natesilver.net/p/the-polls-are-close-but-that-doesnt

@@ -1,0 +1,63 @@
+---
+layout: default
+title: Eli McKown-Dawson
+description: Data journalist and Senior Elections Analyst at Silver Bulletin, writing about elections, polling and public opinion.
+---
+{%- assign lead = site.data.projects | first -%}
+<section class="col intro">
+  <div>
+    <h1>I write about elections and polling, and build the <em>averages, forecasts and ratings</em> behind the stories.</h1>
+    <p>I'm Senior Elections Analyst at <a href="https://www.natesilver.net/">Silver Bulletin</a> in Washington, DC. I run the presidential approval average with Nate Silver, maintain our polling database and pollster ratings, and design the charts that go with them.</p>
+    <p>Before that I was a contributor at <a href="https://today.yougov.com/people/eli-mckown-dawson">YouGov</a> and a research fellow at the <a href="https://lci.fsu.edu/">LeRoy Collins Institute</a>. I hold an MSc in Statistics from the London School of Economics and a BS in Political Science from Florida State University.</p>
+  </div>
+  <picture>
+    <source srcset="{{ '/assets/img/eli.webp' | relative_url }}" type="image/webp">
+    <img class="portrait" src="{{ '/assets/img/eli.jpg' | relative_url }}" alt="Portrait of Eli McKown-Dawson" width="480" height="480">
+  </picture>
+</section>
+
+<section class="sec wide" aria-labelledby="h-data">
+  <div class="sec-head"><h2 id="h-data">Data &amp; models</h2><a href="{{ '/data/' | relative_url }}">All projects →</a></div>
+  {% include project-lead.html p=lead %}
+  <div class="projs">
+    {%- for p in site.data.projects offset: 1 limit: 3 %}
+    {% include project-card.html p=p %}
+    {%- endfor %}
+  </div>
+</section>
+
+<section class="sec wide" aria-labelledby="h-writing">
+  <div class="sec-head"><h2 id="h-writing">Writing</h2><a href="{{ '/writing/' | relative_url }}">All {{ site.data.bylines | size }} bylines →</a></div>
+  <div class="split">
+    <div>
+      <p class="label">Selected</p>
+      {%- assign featured = site.data.bylines | where: "featured", true %}
+      {%- for b in featured limit: 4 %}
+      <a class="feat" href="{{ b.url }}">
+        <span class="meta"><b>{{ b.outlet }}</b> · {{ b.date | append: "-01" | date: "%b %Y" }}</span>
+        <h3>{{ b.title }}</h3>
+      </a>
+      {%- endfor %}
+    </div>
+    <div>
+      <p class="label">Latest</p>
+      <ul class="rows">
+        {%- assign latest = site.data.bylines | where_exp: "b", "b.featured != true" %}
+        {%- for b in latest limit: 5 %}
+        {% include byline.html b=b %}
+        {%- endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="sec col" aria-labelledby="h-research">
+  <div class="sec-head"><h2 id="h-research">Research</h2><a href="{{ '/research/' | relative_url }}">Details →</a></div>
+  <ul class="papers">
+    {%- for p in site.data.papers %}
+    {% include paper.html p=p %}
+    {%- endfor %}
+  </ul>
+</section>
+
+{% include contact.html %}

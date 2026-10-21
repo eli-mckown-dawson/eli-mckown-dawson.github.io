@@ -1,0 +1,9 @@
+{%- comment -%} One row in a list of bylines. Pass b=<byline>; fmt sets the date format (default "Mon YYYY"). {%- endcomment -%}
+{%- assign fmt = include.fmt | default: "%b %Y" -%}
+<li class="row">
+  <span class="meta">{{ include.b.date | append: "-01" | date: fmt }}</span>
+  <div>
+    <a href="{{ include.b.url }}">{{ include.b.title }}</a>
+    <small>{{ include.b.outlet }}</small>
+  </div>
+</li>
