@@ -1,0 +1,9 @@
+---
+layout: page
+title: Data & models
+width: wide
+lede: Polling averages, forecasts, ratings and the charts behind them. Most of this work is done with Nate Silver at Silver Bulletin.
+---
+{%- for p in site.data.projects %}
+{% include project-lead.html p=p %}
+{%- endfor %}

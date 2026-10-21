@@ -1,0 +1,7 @@
+{%- assign p = include.p -%}
+<li>
+  <span class="meta">{{ p.date | append: "-01" | date: "%b %Y" }}</span>
+  <a href="{{ p.url }}">{{ p.title }}</a>
+  <small><em>{{ p.venue }}</em>{% if p.coauthors %} · with {{ p.coauthors }}{% endif %}</small>
+  {%- if include.summary and p.summary %}<p>{{ p.summary }}</p>{% endif %}
+</li>

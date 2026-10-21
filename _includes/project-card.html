@@ -1,0 +1,11 @@
+{%- assign p = include.p -%}
+<a class="panel proj" href="{{ p.url }}">
+  <figure>
+    <img src="{{ '/assets/img/charts/' | append: p.image | relative_url }}" alt="{{ p.alt }}" width="{{ p.width }}" height="{{ p.height }}" loading="lazy">
+  </figure>
+  <div class="txt">
+    <span class="meta"><b>{{ p.kind }}</b> · {{ p.when }}</span>
+    <h3>{{ p.title }}</h3>
+    <p>{{ p.summary }}</p>
+  </div>
+</a>

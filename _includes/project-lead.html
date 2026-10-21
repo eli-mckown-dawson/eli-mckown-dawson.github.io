@@ -1,0 +1,17 @@
+{%- assign p = include.p -%}
+<article class="panel lead">
+  <figure>
+    <img src="{{ '/assets/img/charts/' | append: p.image | relative_url }}" alt="{{ p.alt }}" width="{{ p.width }}" height="{{ p.height }}">
+  </figure>
+  <div class="txt">
+    <p class="meta"><b>{{ p.kind }}</b> · {{ p.when }}</p>
+    <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
+    <p>{{ p.summary }}</p>
+    {%- if p.role %}
+    <ul class="roles">
+      {%- for r in p.role %}<li>{{ r }}</li>{% endfor %}
+    </ul>
+    {%- endif %}
+    <div class="links">{% for l in p.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</div>
+  </div>
+</article>

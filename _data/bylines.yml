@@ -1,0 +1,214 @@
+# Every published piece, newest first. To add one, copy an entry to the top and edit it.
+# date is YYYY-MM. Set featured: true to list it under "Selected" on the home page.
+
+- title: "We're tracking more data on Trump's popularity"
+  url: https://www.natesilver.net/p/were-tracking-more-data-on-trumps
+  outlet: Silver Bulletin
+  date: "2025-05"
+- title: "Canada thinks we're a bunch of hosers, eh?"
+  url: https://www.natesilver.net/p/canada-thinks-were-a-bunch-of-hosers
+  outlet: Silver Bulletin
+  date: "2025-04"
+- title: "How popular is Elon Musk?"
+  url: https://www.natesilver.net/p/elon-musk-polls-popularity-nate-silver-bulletin
+  outlet: Silver Bulletin
+  date: "2025-04"
+- title: "How popular is Donald Trump?"
+  url: https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin
+  outlet: Silver Bulletin
+  date: "2025-04"
+- title: "Republicans are acting like there’s a Blue Wave coming"
+  url: https://www.natesilver.net/p/republicans-are-acting-like-theres
+  outlet: Silver Bulletin
+  date: "2025-03"
+- title: "So, how did the polls do in 2024? It’s complicated"
+  url: https://www.natesilver.net/p/so-how-did-the-polls-do-in-2024-its
+  outlet: Silver Bulletin
+  date: "2025-02"
+  featured: true
+- title: "Silver Bulletin pollster ratings, 2025 update"
+  url: https://www.natesilver.net/p/pollster-ratings-silver-bulletin
+  outlet: Silver Bulletin
+  date: "2025-02"
+- title: "Polling is becoming more of an art than a science"
+  url: https://www.natesilver.net/p/polling-is-becoming-more-of-an-art
+  outlet: Silver Bulletin
+  date: "2025-01"
+  featured: true
+- title: "Silver Bulletin 2024 election night coverage"
+  url: https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model
+  outlet: Silver Bulletin
+  date: "2024-11"
+- title: "Silver Bulletin 2024 presidential election forecast"
+  url: https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model
+  outlet: Silver Bulletin
+  date: "2024-11"
+- title: "The polls are close, but that doesn’t mean the results will be"
+  url: https://www.natesilver.net/p/the-polls-are-close-but-that-doesnt
+  outlet: Silver Bulletin
+  date: "2024-11"
+- title: "A mystery in likely voter polls"
+  url: https://www.natesilver.net/p/a-mystery-in-likely-voter-polls
+  outlet: Silver Bulletin
+  date: "2024-10"
+- title: "Are Republican pollsters “flooding the zone?”"
+  url: https://www.natesilver.net/p/are-republican-pollsters-flooding
+  outlet: Silver Bulletin
+  date: "2024-10"
+- title: "Should Kamala Harris gamble on a Blue Florida?"
+  url: https://www.natesilver.net/p/should-kamala-harris-gamble-on-a
+  outlet: Silver Bulletin
+  date: "2024-10"
+- title: "Which polls are biased toward Harris or Trump?"
+  url: https://www.natesilver.net/p/which-polls-are-biased-toward-harris
+  outlet: Silver Bulletin
+  date: "2024-09"
+- title: "How big will the bounce be?"
+  url: https://www.natesilver.net/p/how-big-will-the-bounce-be
+  outlet: Silver Bulletin
+  date: "2024-08"
+- title: "Welcome to the bizarre world of conditional probability"
+  url: https://www.natesilver.net/p/welcome-to-the-bizarre-world-of-conditional
+  outlet: Silver Bulletin
+  date: "2024-08"
+- title: "Silver Bulletin 2024 Biden-Trump forecast archive"
+  url: https://www.natesilver.net/p/silver-bulletin-2024-biden-trump
+  outlet: Silver Bulletin
+  date: "2024-07"
+- title: "Did Biden's decline in the polls hurt Democratic Senate candidates?"
+  url: https://www.natesilver.net/p/did-bidens-decline-in-the-polls-hurt
+  outlet: Silver Bulletin
+  date: "2024-07"
+- title: "Biden needs to do more than make up his deficit in national polls"
+  url: https://www.natesilver.net/p/biden-needs-to-do-more-than-make
+  outlet: Silver Bulletin
+  date: "2024-07"
+- title: "How much do Americans know about the 2024 presidential election?"
+  url: https://today.yougov.com/politics/articles/49846-how-much-americans-know-about-2024-presidential-election-knowledge-poll
+  outlet: YouGov
+  date: "2024-07"
+- title: "How Americans characterize polls about policy support among two groups and elections"
+  url: https://today.yougov.com/politics/articles/49449-how-americans-characterize-polls-policy-support-two-groups-elections-poll
+  outlet: YouGov
+  date: "2024-05"
+- title: "Survey says what? How Americans characterize polls about policy support"
+  url: https://today.yougov.com/politics/articles/49379-how-americans-characterize-polls-about-policy-support
+  outlet: YouGov
+  date: "2024-05"
+- title: "How do Democrats and Republicans feel about the two parties?"
+  url: https://today.yougov.com/politics/articles/49193-how-democrats-republicans-feel-about-democratic-republican-parties-poll
+  outlet: YouGov
+  date: "2024-04"
+- title: "How do Americans feel about walking, driving, and other ways they get around?"
+  url: https://today.yougov.com/travel/articles/48782-how-americans-feel-about-walking-driving-and-other-transit
+  outlet: YouGov
+  date: "2024-02"
+- title: "Americans are more likely to accept most protest tactics when the protest is for a cause they like"
+  url: https://today.yougov.com/politics/articles/48468-americans-accept-protest-tactics-causes-they-support-poll
+  outlet: YouGov
+  date: "2024-01"
+- title: "How Americans feel about Trump’s proposed policies and the Republican primary candidates"
+  url: https://today.yougov.com/politics/articles/48354-how-americans-feel-about-trumps-proposed-policies
+  outlet: YouGov
+  date: "2024-01"
+- title: "How opinions have changed on what presidential behavior Americans find objectionable"
+  url: https://today.yougov.com/politics/articles/48196-opinions-changed-presidential-behavior-polls-from-past
+  outlet: YouGov
+  date: "2023-12"
+- title: "Where do Americans think Biden and Trump stand on the issues?"
+  url: https://today.yougov.com/politics/articles/47910-where-biden-and-trump-stand-on-the-issues
+  outlet: YouGov
+  date: "2023-11"
+- title: "Which government agencies do Americans think should get more or less funding?"
+  url: https://today.yougov.com/politics/articles/47874-which-government-agencies-should-get-more-funding-poll
+  outlet: YouGov
+  date: "2023-11"
+- title: "How do Americans feel about ticket-price transparency for airline flights?"
+  url: https://today.yougov.com/consumer/articles/47641-how-americans-feel-ticket-prices-transparency-airline-flights-poll
+  outlet: YouGov
+  date: "2023-10"
+- title: "How question style can influence survey responses: the effect of multiple-select"
+  url: https://today.yougov.com/politics/articles/46070-poll-methodology-question-affect-survey-response
+  outlet: YouGov
+  date: "2023-09"
+  featured: true
+- title: "Americans’ opinions of six presidents: JFK, FDR, Teddy Roosevelt, Washington, Jefferson, and Lincoln"
+  url: https://today.yougov.com/politics/articles/45989-presidents-6-jfk-fdr-washington-jefferson-lincoln
+  outlet: YouGov
+  date: "2023-08"
+- title: "Americans’ rankings of 30 occupations"
+  url: https://today.yougov.com/economy/articles/45927-americans-rank-30-occupations-pay-happiness-impact
+  outlet: YouGov
+  date: "2023-07"
+- title: "Pets and morality: How attached are Americans to their pets?"
+  url: https://today.yougov.com/society/articles/45895-pets-morality-americans-attached-dogs-cats-poll
+  outlet: YouGov
+  date: "2023-07"
+- title: "Americans’ opinions on state preemption of local laws are driven by partisanship"
+  url: https://today.yougov.com/politics/articles/45802-federal-state-local-laws-preemption-poll-partisan
+  outlet: YouGov
+  date: "2023-06"
+- title: "Two-thirds of Americans think the country is more divided than usual"
+  url: https://today.yougov.com/politics/articles/45648-americans-think-country-more-divided-united-poll
+  outlet: YouGov
+  date: "2023-04"
+- title: "How do Americans feel about regulation of public universities?"
+  url: https://today.yougov.com/politics/articles/45414-how-americans-feel-regulation-public-universities
+  outlet: YouGov
+  date: "2023-03"
+- title: "100% Independent Retabulation Election Audit, Leon County, Florida"
+  url: https://electionlab.mit.edu/articles/100-independent-retabulation-election-audit-leon-county-florida
+  outlet: MIT Election Data Science Lab Blog
+  date: "2023-03"
+- title: "Voters’ confidence in vote counting — before and after the 2022 congressional election"
+  url: https://today.yougov.com/politics/articles/44936-voters-confidence-vote-counting-2022-election
+  outlet: YouGov
+  date: "2023-01"
+- title: "How YouGov identifies people as Democrats and Republicans"
+  url: https://today.yougov.com/politics/articles/44784-how-yougov-identify-democrat-republican-methods
+  outlet: YouGov
+  date: "2022-12"
+- title: "Americans’ views on vote-counting deadlines and paper ballots"
+  url: https://today.yougov.com/politics/articles/44630-americans-vote-counting-deadline-paper-ballot-poll
+  outlet: YouGov
+  date: "2022-12"
+- title: "100 policies supported by majorities of Democrats and Republicans"
+  url: https://today.yougov.com/politics/articles/44463-policies-supported-by-democrats-and-republicans
+  outlet: YouGov
+  date: "2022-11"
+- title: "How Americans cast their votes in the 2022 election"
+  url: https://today.yougov.com/politics/articles/44440-how-americans-cast-their-votes-2022-election
+  outlet: YouGov
+  date: "2022-11"
+- title: "How Americans feel about voting fraud and election policy"
+  url: https://today.yougov.com/politics/articles/44362-how-americans-feel-voting-fraud-election-policy
+  outlet: YouGov
+  date: "2022-11"
+- title: "How Americans’ personal relationships affect their voting behavior"
+  url: https://today.yougov.com/politics/articles/44333-americans-personal-relationships-voting-behavior
+  outlet: YouGov
+  date: "2022-11"
+- title: "Assessing Americans’ attitudes about poll workers prior to the 2022 election"
+  url: https://today.yougov.com/politics/articles/44267-american-opinion-poll-workers-election-2022
+  outlet: YouGov
+  date: "2022-11"
+- title: "Vote Choice and Perceptions of Ballot Secrecy in the 2020 Election"
+  url: https://electionlab.mit.edu/articles/vote-choice-and-perceptions-ballot-secrecy-2020-election
+  outlet: MIT Election Data Science Lab Blog
+  date: "2022-11"
+- title: "Poll workers are trusted by most Americans — but with some differences by region and party"
+  url: https://today.yougov.com/politics/articles/44183-poll-workers-are-trusted-most-americans-poll
+  outlet: YouGov
+  date: "2022-10"
+- title: "A majority of Americans oppose laws that regulate college professors’ speech in the classroom"
+  url: https://today.yougov.com/politics/articles/44070-americans-oppose-laws-regulate-professor-speech
+  outlet: YouGov
+  date: "2022-10"
+- title: "Moderate students are most marginalized in political discussions on campuses"
+  url: https://eu.tallahassee.com/story/opinion/2022/10/16/moderate-students-most-marginalized-political-discussions-campuses/10490247002/
+  outlet: Tallahassee Democrat
+  date: "2022-10"
+- title: "When it comes to views of campus climate, political ideology is important"
+  url: https://eu.tallahassee.com/story/opinion/2021/12/10/when-comes-views-campus-climate-political-ideology-important-opinion/6442458001/
+  outlet: Tallahassee Democrat
+  date: "2021-12"

@@ -1,0 +1,53 @@
+---
+layout: page
+title: Writing
+permalink: /writing/
+---
+{%- assign all = site.data.bylines -%}
+{%- assign outlets = all | map: "outlet" | uniq -%}
+<p class="lede">Analysis, forecasts and polling coverage, newest first. {{ all | size }} pieces across {{ outlets | size }} outlets.</p>
+
+<div class="tools" role="group" aria-label="Filter by outlet" id="filters" hidden>
+  <button type="button" data-outlet="" aria-pressed="true">All<span class="n">{{ all | size }}</span></button>
+  {%- for o in outlets %}
+  {%- assign n = all | where: "outlet", o | size %}
+  <button type="button" data-outlet="{{ o }}" aria-pressed="false">{{ o }}<span class="n">{{ n }}</span></button>
+  {%- endfor %}
+</div>
+
+{%- assign years = all | group_by_exp: "b", "b.date | slice: 0, 4" %}
+{%- for y in years %}
+<section class="year">
+  <h2>{{ y.name }}</h2>
+  <ul class="rows">
+    {%- for b in y.items %}
+    <li class="row" data-outlet="{{ b.outlet }}">
+      <span class="meta">{{ b.date | append: "-01" | date: "%b" }}</span>
+      <div><a href="{{ b.url }}">{{ b.title }}</a><small>{{ b.outlet }}</small></div>
+    </li>
+    {%- endfor %}
+  </ul>
+</section>
+{%- endfor %}
+
+<script>
+  (function () {
+    var bar = document.getElementById("filters");
+    bar.hidden = false;
+    bar.addEventListener("click", function (e) {
+      var btn = e.target.closest("button");
+      if (!btn) return;
+      var o = btn.getAttribute("data-outlet");
+      bar.querySelectorAll("button").forEach(function (b) { b.setAttribute("aria-pressed", b === btn); });
+      document.querySelectorAll(".year").forEach(function (sec) {
+        var shown = 0;
+        sec.querySelectorAll(".row").forEach(function (r) {
+          var on = !o || r.getAttribute("data-outlet") === o;
+          r.hidden = !on;
+          if (on) shown++;
+        });
+        sec.hidden = shown === 0;
+      });
+    });
+  })();
+</script>

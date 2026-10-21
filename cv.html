@@ -1,0 +1,24 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+{%- assign cv = site.data.cv.cv -%}
+<div class="cv">
+  <p class="lede">{{ cv.summary }}</p>
+  {%- for section in cv.sections %}
+  <h2>{{ section[0] }}</h2>
+  {%- for item in section[1] %}
+  <div class="cv-item">
+    <span class="meta">
+      {{- item.start_date | append: "-01" | date: "%b %Y" }} –
+      {% if item.end_date and item.end_date != "" %}{{ item.end_date | append: "-01" | date: "%b %Y" }}{% else %}Present{% endif -%}
+    </span>
+    <div>
+      <h3>{{ item.position | default: item.studyType }}</h3>
+      <p>{{ item.company | default: item.institution }}</p>
+    </div>
+  </div>
+  {%- endfor %}
+  {%- endfor %}
+</div>
