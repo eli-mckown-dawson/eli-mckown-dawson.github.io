@@ -13,6 +13,7 @@ author:
   name: Eli McKown-Dawson
   email: eli.inquiries68@gmail.com
   x: emckowndawson
+  twitter: emckowndawson
   github: eli-mckown-dawson
   linkedin: eli-mckown-dawson
   substack: emckowndawson
@@ -21,7 +22,10 @@ author:
   speakerhub: https://speakerhub.com/speaker/eli-mckown-dawson
 
 # Used by jekyll-seo-tag for link previews
-image: /assets/img/share.jpg
+defaults:
+  - scope: { path: "" }
+    values:
+      image: /assets/img/share.jpg
 twitter:
   username: emckowndawson
   card: summary_large_image
